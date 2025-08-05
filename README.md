@@ -39,6 +39,4 @@ To understand which games are most played and best-selling, how genres perform, 
 4. 📅 Games Released Over Time
 5. ⭐ Average Game Rating by Genre
 
-> Styled using a dark gaming theme with neon highlights.
-
 ---
